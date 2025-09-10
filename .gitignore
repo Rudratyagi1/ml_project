@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env variables
+*.env
+
+# Build/Distribution
+build/
+dist/
+*.egg-info/
+
+
+#gitignore for Jupyter Notebooks
