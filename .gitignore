@@ -33,3 +33,4 @@ dist/
 
 
 #gitignore for Jupyter Notebooks
+.artifacts
